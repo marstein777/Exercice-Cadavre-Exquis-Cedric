@@ -5,3 +5,6 @@ Les robots sont courants dans tous les ménages et facilitent la vie des citoyen
 Notre héros, Script 3.1 est le robot à tout faire de la petite famille Rainbow. 
 Et ce matin, alors que Julie et Simon viennent de terminer leurs déjeuners, 
 ils s'aperçoivent que leur robot fait un bruit inhabituel.
+
+
+En effet le petit Script 3.1 avait essayer d'avaler le micro-onde . 
