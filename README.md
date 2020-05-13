@@ -8,3 +8,7 @@ ils s'aperçoivent que leur robot fait un bruit inhabituel.
 
 
 En effet le petit Script 3.1 avait essayer d'avaler le micro-onde . 
+
+Ils ragardent par la fenetre et ils apperçoient un chat venu de l'espace.
+
+Après avoir gobé le micro onde, Script 3.1 allat s'attaquer au percolateur.
