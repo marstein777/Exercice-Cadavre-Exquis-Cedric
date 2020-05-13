@@ -12,3 +12,17 @@ En effet le petit Script 3.1 avait essayer d'avaler le micro-onde .
 Ils ragardent par la fenetre et ils apperçoient un chat venu de l'espace.
 
 Après avoir gobé le micro onde, Script 3.1 allat s'attaquer au percolateur.
+
+**Maître developpeur**, sur sa _branche_ perché venait d'_add_ à celle-ci du contenu !
+
+**Junior dev**, ne comprenant pas les cernes qu'il avait sous les yeux lui tint à peu près ce _langage_:
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat()
+}
+```
+![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
